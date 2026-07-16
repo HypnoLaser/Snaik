@@ -8,3 +8,8 @@ A simple web-based snake game built using HTML, CSS, and JavaScript.
 No installation is required! 
 1. Download or clone this repository.
 2. Open the `index.html` file in any web browser (Chrome, Edge, Safari, Firefox).
+## 🕹️ Game Features
+* **Progressive Difficulty:** The snake moves faster and faster every time you eat food!
+* **Dynamic Color Changes:** Watch the game elements change colors as your score increases!
+* **High Score Tracker:** Saves your best score so you can try to beat your personal record.
+* **Classic Retro Style:** Clean neon gameplay inspired by the original arcade game.
