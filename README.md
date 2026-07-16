@@ -17,3 +17,5 @@ No installation is required!
 Can you beat the developer's high score? 
 * **Current Record:** 500 points
 * **Think you can do better?** Click the play link above and send a screenshot if you beat it!
+## ⚠️ Accessibility
+* **This game is built for PC web browsers. It is not currently optimized for mobile devices as it requires a keyboard and mouse to play.**
