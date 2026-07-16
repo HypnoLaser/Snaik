@@ -13,3 +13,7 @@ No installation is required!
 * **Dynamic Color Changes:** Watch the game elements change colors as your score increases!
 * **High Score Tracker:** Saves your best score so you can try to beat your personal record.
 * **Classic Retro Style:** Clean neon gameplay inspired by the original arcade game.
+## 🏆 The Dev Challenge
+Can you beat the developer's high score? 
+* **Current Record:** 500 points
+* **Think you can do better?** Click the play link above and send a screenshot if you beat it!
