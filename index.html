@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snaik</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="arcade-container">
+        <h1>Snaik by HypnoLaser</h1>
+        
+        <div id="volume-container">
+            <span id="volume-icon">🔊</span>
+            <input type="range" id="volume-slider" min="0" max="1" step="0.1" value="1">
+            <img id="secret-egg" src="egg.png" alt="???">
+        </div>
+
+        <div id="scoreboard">
+            <span id="current-score">SCORE: 0</span>
+            <span id="high-score">HIGH SCORE: 0</span>
+        </div>
+
+        <div id="game-window">
+            <!-- Full Title Screen Interface Block Overlay -->
+            <div id="title-screen">
+                <h2 id="menu-logo" class="arcade-logo">Snaik</h2>
+                <p id="menu-subtitle" class="subtitle">by HypnoLaser</p>
+                <div class="controls-guide">
+                    <p>🕹️ ARROWS / WASD to Move</p>
+                    <p>⏸️ ESC to Pause</p>
+                </div>
+                <div id="start-btn">PRESS SPACE TO PLAY</div>
+            </div>
+            <canvas id="gameCanvas" width="400" height="400"></canvas>
+        </div>
+        
+        <!-- Clean Footer Layout (Duplicate Directions Removed) -->
+    </div>
+    <script src="game.js"></script>
+</body>
+</html>
